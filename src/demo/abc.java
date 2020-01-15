@@ -5,7 +5,7 @@ public class abc {
 		String s =new String();
 		s="hello";
 		
-		System.out.println(s);
+		System.out.println(s  );
 	}
 
 }
