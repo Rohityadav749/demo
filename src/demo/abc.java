@@ -3,7 +3,7 @@ package demo;
 public class abc {
 	public static void main(String[] args) {
 		String s =new String();
-		s="hello  ";
+		s="hello  India";
 		
 		System.out.println(s  );
 	}
